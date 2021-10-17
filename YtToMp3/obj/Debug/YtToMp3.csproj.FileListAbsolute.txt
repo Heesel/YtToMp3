@@ -1,0 +1,17 @@
+D:\Dev\C# projects\YtToMp3\YtToMp3\bin\Debug\YtToMp3.exe.config
+D:\Dev\C# projects\YtToMp3\YtToMp3\bin\Debug\YtToMp3.exe
+D:\Dev\C# projects\YtToMp3\YtToMp3\bin\Debug\YtToMp3.pdb
+D:\Dev\C# projects\YtToMp3\YtToMp3\bin\Debug\libvideo.dll
+D:\Dev\C# projects\YtToMp3\YtToMp3\bin\Debug\MediaToolkit.dll
+D:\Dev\C# projects\YtToMp3\YtToMp3\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\C# projects\YtToMp3\YtToMp3\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Dev\C# projects\YtToMp3\YtToMp3\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\C# projects\YtToMp3\YtToMp3\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Dev\C# projects\YtToMp3\YtToMp3\obj\Debug\YtToMp3.csproj.AssemblyReference.cache
+D:\Dev\C# projects\YtToMp3\YtToMp3\obj\Debug\YtToMp3.Form1.resources
+D:\Dev\C# projects\YtToMp3\YtToMp3\obj\Debug\YtToMp3.Properties.Resources.resources
+D:\Dev\C# projects\YtToMp3\YtToMp3\obj\Debug\YtToMp3.csproj.GenerateResource.cache
+D:\Dev\C# projects\YtToMp3\YtToMp3\obj\Debug\YtToMp3.csproj.CoreCompileInputs.cache
+D:\Dev\C# projects\YtToMp3\YtToMp3\obj\Debug\YtToMp3.csproj.CopyComplete
+D:\Dev\C# projects\YtToMp3\YtToMp3\obj\Debug\YtToMp3.exe
+D:\Dev\C# projects\YtToMp3\YtToMp3\obj\Debug\YtToMp3.pdb
